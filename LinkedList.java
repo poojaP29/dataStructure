@@ -1,7 +1,5 @@
 package com.javax;
-
 import java.util.Scanner;
-
 class LinkedList {
     Node head;
     class Node {
