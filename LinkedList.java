@@ -128,7 +128,6 @@ MAIN method
         System.out.println("\nAfter deleting an element: ");
         llist.deleteNode(3);
         llist.printList();
-
         System.out.println();
 
 
